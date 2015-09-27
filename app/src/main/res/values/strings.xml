@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Versus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_location">Enter location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="credit"><u><b><i>Versus v0.1\nProduct by Art Studio.</i></b></u></string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_kill">KillActivity</string>
+    <string name="title_activity_heal">HealActivity</string>
+
+</resources>
